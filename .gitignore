@@ -1,0 +1,17 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.idea/
+*.log
+htmlcov/
+.allure-results/
+.allure-report/
+reports/
+locustfile.py
+zap_stub.py
+push_metrics.py
+venv/
+.envrc
+.DS_Store
